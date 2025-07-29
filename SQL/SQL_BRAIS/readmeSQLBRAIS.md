@@ -3,3 +3,5 @@
 Se compone de más de 6 horas de vídeos y con ejercicios.
 
 Indicado para iniciarse en la gestión de bases de datos SQL
+
+## [SQL en w3schools](https://www.w3schools.com/sql/default.asp)
